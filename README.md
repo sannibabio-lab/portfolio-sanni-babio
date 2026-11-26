@@ -18,9 +18,11 @@ URL attendue : https://sannibabio-lab.github.io/portfolio-sanni-babio/
 ## Éléments à compléter avant diffusion professionnelle
 
 - Ajouter la photographie professionnelle, lorsque disponible.
-- Ajouter une adresse e-mail professionnelle vérifiée.
+- Adresse e-mail de contact publiée : sbabio@yahoo.fr.
 - Ajouter les liens LinkedIn et autres profils professionnels confirmés.
-- Vérifier les intitulés institutionnels, dates et références bibliographiques à partir des documents sources.
-- Ajouter un CV PDF après validation expresse de la version destinée à être publique.
+- Le parcours professionnel, les diplômes, les formations complémentaires et les langues sont présentés à partir du CV fourni.
+- Vérifier une dernière fois les intitulés, dates et références avant diffusion externe.
+- Ajouter une photographie professionnelle et les liens LinkedIn après validation.
+- Ajouter un CV PDF téléchargeable uniquement après validation de la version publique (sans coordonnées privées non souhaitées).
 
-Les informations de contact non confirmées ne sont pas inventées dans cette version.
+Les données personnelles sensibles du CV complet (date de naissance, adresse postale et numéros personnels) ne sont pas publiées sur le site.
